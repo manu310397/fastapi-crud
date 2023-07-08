@@ -1,8 +1,7 @@
 import motor.motor_asyncio
 from ssl import CERT_NONE
 
-uri = "mongodb+srv://manojbalaraj:MANUmanu3451@cluster0.uikhei9.mongodb.net"
-# uri = "mongodb+srv://<username>:<password>@cluster0.uikhei9.mongodb.net"
+uri = "mongodb+srv://<username>:<password>@cluster0.uikhei9.mongodb.net"
 
 # client = motor.motor_asyncio.AsyncIOMotorClient(os.environ["MONGODB_URL"])
 
